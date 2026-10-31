@@ -1,0 +1,7 @@
+.secrets/
+_req/
+_res/
+.loop_heartbeat
+.loop_state
+.ready
+.clawnet
